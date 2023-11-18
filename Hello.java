@@ -6,5 +6,6 @@ public static void main(String[] args)
         //Will this work
     // this is changed by Gopinath
         System.out.println("hello, world");
+        System.out.print("HI Gopi");
     }
 }
